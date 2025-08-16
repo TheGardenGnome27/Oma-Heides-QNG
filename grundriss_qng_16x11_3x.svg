@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="960" height="740" viewBox="0 0 960 740" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" width="960" height="660" fill="white"/>
+    <rect x="0" y="0" width="960.0" height="660.0" fill="none" stroke="black" stroke-width="14.4"/>
+    <rect x="360.0" y="0" width="240.0" height="660.0" fill="none" stroke="black" stroke-width="6.9"/>
+    <text x="480.0" y="25.0" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">Kern: Treppe + Aufzug + Flur</text>
+    <rect x="0" y="0" width="360.0" height="660.0" fill="none" stroke="black" stroke-width="6.9" stroke-dasharray="6,4"/>
+    <text x="180.0" y="25.0" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">WE-L: ~66 m²</text>
+    <rect x="600.0" y="0" width="360.0" height="660.0" fill="none" stroke="black" stroke-width="6.9" stroke-dasharray="6,4"/>
+    <text x="780.0" y="25.0" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">WE-R: ~66 m²</text>
+    <!-- Räume links -->
+    <rect x="6.9" y="6.9" width="346.2" height="303.9" fill="none" stroke="black" stroke-width="6.9"/>
+    <text x="180.0" y="156.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle">Wohnen/Essen/Kochen ~31 m²</text>
+    <rect x="6.9" y="314.9" width="173.1" height="233.1" fill="none" stroke="black" stroke-width="6.9"/>
+    <text x="90.0" y="431.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle">Schlafen ~12 m²</text>
+    <rect x="180.0" y="314.9" width="162.0" height="192.0" fill="none" stroke="black" stroke-width="6.9"/>
+    <text x="261.0" y="410.9" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle">Kind/Arbeit ~8.6 m²</text>
+    <rect x="342.0" y="314.9" width="12.0" height="144.0" fill="none" stroke="black" stroke-width="6.9"/>
+    <text x="348.0" y="386.9" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle">Bad ~5.8 m²</text>
+    <!-- Rechts gespiegelt -->
+    <rect x="606.9" y="6.9" width="346.2" height="303.9" fill="none" stroke="black" stroke-width="6.9"/>
+    <text x="780.0" y="156.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle">Wohnen/Essen/Kochen ~31 m²</text>
+    <text x="780.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle">Weitere Räume gespiegelt</text>
+    <!-- Treppe + Aufzug -->
+    <rect x="378.0" y="120.0" width="144.0" height="420.0" fill="none" stroke="black" stroke-width="6.9"/>
+    <text x="450.0" y="330.0" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle">Treppe</text>
+    <rect x="516.0" y="240.0" width="48.0" height="120.0" fill="none" stroke="black" stroke-width="6.9"/>
+    <text x="540.0" y="300.0" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle">Aufzug</text>
+    <!-- Maßlinien -->
+    <line x1="0" y1="-30" x2="0" y2="30" stroke="black" stroke-width="1"/>
+    <line x1="960" y1="-30" x2="960" y2="30" stroke="black" stroke-width="1"/>
+    <line x1="480.0" y1="-30" x2="480.0" y2="30" stroke="black" stroke-width="1" stroke-dasharray="4,3"/>
+    <text x="480.0" y="-36" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle">16.00 m</text>
+    <line x1="-20" y1="0" x2="-20" y2="660" stroke="black" stroke-width="1"/>
+    <line x1="20" y1="0" x2="20" y2="660" stroke="black" stroke-width="1"/>
+    <line x1="0.0" y1="330.0" x2="0.0" y2="330.0" stroke="black" stroke-width="1" stroke-dasharray="4,3"/>
+    <text x="0.0" y="324.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle">11.00 m</text>
+    <!-- Titel -->
+    <text x="480.0" y="700.0" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle">QNG Mehrparteienhaus – Typischer Grundriss je Geschoss (EG/OG/DG)
+Grundfläche: 16.0 × 11.0 m = 176 m², Geschossfläche gesamt: 528 m² (bei 3 Ebenen)
+2 WE à ~66 m² / Ebene + Gebäudekern (~44 m²)</text>
+</svg>
